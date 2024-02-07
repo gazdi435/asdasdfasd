@@ -1,0 +1,87 @@
+body{
+    background-image: url(xp.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#mainDiv{
+    background-color: gray;
+    border: black 2px solid;
+    /* width: 26vw; */
+    height: 95vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+#jobbDiv{
+    height: 100%;
+    width: 6vw;
+    margin-left: 15px;
+}
+
+#balDiv{
+    height: 100%;
+    /* width: 20vw; */
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.szinDiv{
+    border: black 2px solid;
+    border-radius: 50%;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+
+.miniDiv{
+    height: 1vw;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: black;
+    margin: 0;
+}
+
+
+
+.talalatDiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3vh;
+}
+
+.eltalaltDiv{
+    width: 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+.szinvalasztoDiv{
+    height: 5%;
+    width: 90%;
+    margin-top: 1cm;
+}
+
+.kekDiv{
+    background-color: blue;
+}
+
+.pirosDiv{
+    background-color: red;
+}
+
+.sargaDiv{
+    background-color: yellow;
+}
+
+.zoldDiv{
+    background-color: green;
+}
+
+#gombokDiv{
+    margin-top: 1cm;
+}

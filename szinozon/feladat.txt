@@ -1,0 +1,7 @@
+A Mastermind színkeresős egyszemélyes táblajáték, melyben a játékosnak általában tíz lépése van kitalálni, melyik színek, milyen sorrendben van elrejtve.
+
+_A játék menete_
+A játék elején el van rejtve -többnyire négy- szín, melyet tíz lépésből, tippeléssel kell kitalálni, általában 6-10 szín közül. Minden egyes tippelés után jelzések mutatják meg, mennyire sikerült eltalálni a színeket és a sorrendjüket. Nehezítésképpen lehet több színnel is játszani, illetve úgy is, hogy több színt kelljen kitalálni. (Pl. a 12 színből melyik 8 van elrejtve, egy szín többször is szerepelhessen.)
+
+_Jelzések_
+Sötét színnel jelzik darabszámra azokat a találatokat, amelyek benne vannak és jó helyen. Világos színnel pedig szintén darabszámra, amelyek ugyan benne vannak, de nem jó helyen.
